@@ -37,6 +37,11 @@ public class EmployeeController {
 		return new ResponseEntity<Employee>(str, HttpStatus.ACCEPTED);
     	 
      }
+	
+	public void m1()
+	{
+		System.out.println("m1 method");
+	}
 
 
 }
