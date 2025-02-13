@@ -42,6 +42,11 @@ public class EmployeeController {
 	{
 		System.out.println("m1 method");
 	}
+	
+	public void m2()
+	{
+		
+	}
 
 
 }
